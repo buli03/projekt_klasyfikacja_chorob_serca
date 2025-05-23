@@ -51,4 +51,3 @@ Ostatnia tabela porównawcza zawiera wyniki dla:
 - Regresji Logistycznej
 - K-NN (z najlepszym k)
 - Sieci Neuronowej przed optymalizacją KerasTuner
-- Sieci Neuronowej po optymalizacji KerasTuner
